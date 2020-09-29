@@ -1,0 +1,10 @@
+b) Fordelen med å ikke ha orbok er at det vil bli enklere og mer oversiktelig å kalle på artister med tilhørende sanger og titler.
+Om man skulle lagt spilleliste inn i en ordbok måtte man ha referert til hvilken nøkkelverdi man vil ha til en hver tid og hva slags
+innholdverdi som skal skrives ut. Om man derimot legger det inn i en liste slik som det er gjort i oppgaven. Om man derimot har
+et objekt, her med liste, til innstansevariabelen vil det være med oversiktlig og enkelere å forholde seg til fordi man ikke trenger
+å finne fram til nøkkelverdi og innholdsverdi, men kan heller referere direkte til lista eller se om en verdi er blant objektene i
+lista ved å skrive "in".
+
+c) Fordelen med å ikke åpne filen i konstruktøren er at det blir mindre arbeid. Om man åpner fila i konstruktøren vil fila åpnes for hver
+gang man lager nye objekter med klassen. Istedenfor kaller man på lesFraFil() en gang slik at programmet åpner fila en gang istedenfor flere
+ganger om man hadde åpnet fila i konstruktøren.
