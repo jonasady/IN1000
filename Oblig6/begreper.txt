@@ -1,0 +1,7 @@
+A) linje 1-16
+B)Linje 19
+C) Fra linje 3
+D) Linje 8-9
+E)2-5
+F) Linje 19-20
+G) Linje 19 og 20
